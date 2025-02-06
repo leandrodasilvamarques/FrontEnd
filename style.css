@@ -1,7 +1,9 @@
 .divFotoTexto {
     display: flex;
+    align-items: center;
 }
 
-.divContatos{
-    display: flexbox;
-}
+ .img {
+    width: 250px;
+    height: auto;
+ }
